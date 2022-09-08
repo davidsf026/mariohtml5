@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: octopus-deployment
+  name: super-mario-deployment
   labels:
     app: web
 spec:
